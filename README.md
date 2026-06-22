@@ -14,7 +14,6 @@ The project covers the complete Machine Learning workflow including:
 * Correlation Analysis
 
 ---
-
 ## Dataset Information
 
 The dataset contains **1338 records** and **7 features**.
